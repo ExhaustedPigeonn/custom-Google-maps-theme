@@ -1,2 +1,16 @@
-# custom-Google-maps-theme
-In this project, I have created and styled a Google Map with a theme and custom marker images. i have used  Google Cloud Platform to create the map, and also used the Google Maps JavaScript API to load the map on a website. 
+# Custom Map Project
+
+## Description
+This project is a custom map, where I added icons marking the big techs of Silicon Valley
+
+## Preview:
+https://custom-google-maps-project-l9y9y9zzq-cauanzs-projects.vercel.app/
+
+## Technologies used
+- HTML
+- CSS
+- JavaScript
+- Google Maps API
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
