@@ -1,9 +1,7 @@
 # Custom Map Project
 
 ## Description
-This project is a custom map, where I added icons marking the big techs of Silicon Valley
-
-
+This project is a custom map, where I added icons marking places is Kondhwa
 
 ## Technologies used
 - HTML
@@ -11,5 +9,4 @@ This project is a custom map, where I added icons marking the big techs of Silic
 - JavaScript
 - Google Maps API
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
+
